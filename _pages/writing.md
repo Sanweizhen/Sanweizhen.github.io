@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: Writing/CH
 layout: collection
 permalink: /writing/
 collection: writing
