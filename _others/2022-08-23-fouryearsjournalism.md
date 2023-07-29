@@ -1,11 +1,15 @@
 ---
-title: "我在“双非”学新闻"
-excerpt: "Studying Journalism as a *Shuangfei* Student"
+title: "I, Study Journalism at A 'Non-Double-First-Class' University."
+excerpt: ""
 layout: single
 permalink: /fouryearsjournalism/
 header:
   teaser: /assets/images/fouryearsjournalism/header.jpg
 ---
+<a href="https://mp.weixin.qq.com/s/XvHt1ek3PzR4SvMXm2HcBA">Click here to see the Chinese version</a>
+
+<p style="font-size: 0.8em;">This is a project I worked on after completing my four-year journalism program at a non-prestigious university in China, often referred to as a 'non-double-first class' university. As a personal reflection on my journey over the past four years, I created semi-fictional characters to engage in conversations with me, discussing their diverse experiences and emotions. Through this approach, I aimed to offer an overall analysis and introspection on the Chinese education system and the news industry from an insider's perspective.</p>
+<div style="text-align: center;">
 <div style="text-align: center;">
   <img src="/assets/images/fouryearsjournalism/1.jpg" alt="fouryearsjournalism1">
   <img src="/assets/images/fouryearsjournalism/2.jpg" alt="fouryearsjournalism2">
