@@ -1,5 +1,5 @@
 ---
-title: "I, Study Journalism at A 'Non-Double-First-Class' University."
+title: "I, study Journalism at a 'non-double-first-class' university."
 excerpt: ""
 layout: single
 permalink: /fouryearsjournalism/
